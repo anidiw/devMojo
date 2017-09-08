@@ -2,6 +2,10 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "hexo server"
+  },
   "hexo": {
     "version": "3.3.9"
   },
@@ -18,3 +22,4 @@
     "hexo-server": "^0.2.0"
   }
 }
+
